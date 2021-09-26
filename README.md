@@ -53,11 +53,9 @@
     *Kexin Huang, Marinka Zitnik.*
     
     
-    ## Learning Causal Effects
+## Learning Causal Effects
 
-### With i.i.d Data
-
-#### For Individual-level Treatment Effects (ITEs)
+### Node-level Tasks
 
 |Name|Paper|Code|
 |---|---|---|
