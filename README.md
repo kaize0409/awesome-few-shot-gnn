@@ -22,4 +22,4 @@
 |Name|Paper|Code
 |---|---|---|
 |GFL|[[AAAI 2020] Graph Few-Shot Learning via Knowledge Transfer](http://www.meng-jiang.com/pubs/gfl-aaai20/gfl-aaai20-paper.pdf)|[N/A]
-|G-META|[[NuerIPS] Graph Meta Learning via Local Subgraphs](https://proceedings.neurips.cc/paper/2020/file/412604be30f701b1b1e3124c252065e6-Paper.pdf)|[Python](https://github.com/mims-harvard/G-MetaL)
+|G-META|[[NuerIPS 2020] Graph Meta Learning via Local Subgraphs](https://proceedings.neurips.cc/paper/2020/file/412604be30f701b1b1e3124c252065e6-Paper.pdf)|[Python](https://github.com/mims-harvard/G-MetaL)
