@@ -16,3 +16,10 @@
 |GMatching|[[EMNLP 2018] One-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/1808.09040.pdf)|[Python](https://github.com/xwhan/One-shot-Relational-Learning)
 |FSRL|[[AAAI 2019] Few-Shot Knowledge Graph Completion](http://www.meng-jiang.com/pubs/fsrl-aaai20/fsrl-aaai20-paper.pdf)|[Python](https://github.com/chuxuzhang/AAAI2020_FSRL)
 |FAAN|[[NeurIPS 2020] Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://arxiv.org/pdf/2010.09638.pdf)|[Python](https://github.com/JiaweiSheng/FAAN)
+|ZSGAN|[[AAAI 2020] Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/2001.02332.pdf)|[Python](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
+
+### Graph-level Task
+|Name|Paper|Code
+|---|---|---|
+|GFL|[[AAAI 2020] Graph Few-Shot Learning via Knowledge Transfer](http://www.meng-jiang.com/pubs/gfl-aaai20/gfl-aaai20-paper.pdf)|[N/A]
+|G-META|[[NuerIPS] Graph Meta Learning via Local Subgraphs](https://proceedings.neurips.cc/paper/2020/file/412604be30f701b1b1e3124c252065e6-Paper.pdf)|[Python](https://github.com/mims-harvard/G-MetaL)
