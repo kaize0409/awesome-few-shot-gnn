@@ -8,7 +8,7 @@
 |GPN|[[CIKM 2020] Graph Prototypical Networks for Few-shot Learning on Attributed Networks](https://arxiv.org/pdf/2006.12739.pdf)|[Python](https://github.com/kaize0409/GPN_Graph-Few-shot)
 |G-Meta|[[NeurIPS 2020] Graph Meta Learning via Local Subgraphs](https://arxiv.org/pdf/2006.07889.pdf)|[Python](https://github.com/mims-harvard/G-Meta)
 |RALE|[[AAAI 2021] Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph](https://fangyuan1st.github.io/paper/AAAI21_RALE.pdf)|[TensorFlow](https://github.com/shuaiOKshuai/RALE)
-
+|MetaTNE|[[NuerIPS 2020] Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://arxiv.org/pdf/2007.02914.pdf)|[TensorFlow](https://github.com/llan-ml/MetaTNE)
 
 ### Edge-level Task
 |Name|Paper|Code
