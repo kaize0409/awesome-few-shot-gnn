@@ -57,9 +57,9 @@
 
 ### Node-level Tasks
 
-|Name|Paper|Code|
+|Paper|Data|Code|
 |---|---|---|
-|Propensity Score Matching|[Rosenbaum, Paul R., and Donald B. Rubin. "The central role of the propensity score in observational studies for causal effects." Biometrika 70, no. 1 (1983): 41-55.](https://academic.oup.com/biomet/article-pdf/70/1/41/662954/70-1-41.pdf)|[Python](https://github.com/akelleh/causality/tree/master/causality/estimation)|
+|Propensity Score Matching|[[ICLR 2018] Few-Shot Learning with Graph Neural Networks](https://arxiv.org/pdf/1711.04043.pdf)|[Python](https://github.com/akelleh/causality/tree/master/causality/estimation)|
 |Nonparametric Regression Adjustment|   |[Python](https://github.com/akelleh/causality)|
 |BNN, BLR|[Johansson, Fredrik, Uri Shalit, and David Sontag. "Learning representations for counterfactual inference." In International Conference on Machine Learning, pp. 3020-3029. 2016.](http://www.jmlr.org/proceedings/papers/v48/johansson16.pdf)|[Python](https://github.com/oddrose/cfrnet)|
 |TARNet, Counterfactual Regression|[Shalit, Uri, Fredrik D. Johansson, and David Sontag. "Estimating individual treatment effect: generalization bounds and algorithms." arXiv preprint arXiv:1606.03976 (2016).](https://arxiv.org/pdf/1606.03976)|[Python](https://github.com/oddrose/cfrnet)|
