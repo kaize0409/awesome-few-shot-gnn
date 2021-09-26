@@ -15,6 +15,7 @@
 |---|---|---|
 |GMatching|[[EMNLP 2018] One-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/1808.09040.pdf)|[Python](https://github.com/xwhan/One-shot-Relational-Learning)
 |FSRL|[[AAAI 2019] Few-Shot Knowledge Graph Completion](http://www.meng-jiang.com/pubs/fsrl-aaai20/fsrl-aaai20-paper.pdf)|[Python](https://github.com/chuxuzhang/AAAI2020_FSRL)
+|MetaR|[[EMNLP 2019] Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://aclanthology.org/D19-1431.pdf)|[Python](https://github.com/AnselCmy/MetaR)
 |FAAN|[[NeurIPS 2020] Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://arxiv.org/pdf/2010.09638.pdf)|[Python](https://github.com/JiaweiSheng/FAAN)
 |ZSGAN|[[AAAI 2020] Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/2001.02332.pdf)|[Python](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 
