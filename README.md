@@ -57,8 +57,8 @@
 
 ### Node-level Tasks
 
-|Paper|Data|Code|
-|---|---|---|
+|Task|Paper|Code|Data
+|---|---|---|---|
 |Propensity Score Matching|[[ICLR 2018] Few-Shot Learning with Graph Neural Networks](https://arxiv.org/pdf/1711.04043.pdf)|[Python](https://github.com/akelleh/causality/tree/master/causality/estimation)|
 |Nonparametric Regression Adjustment|   |[Python](https://github.com/akelleh/causality)|
 |BNN, BLR|[Johansson, Fredrik, Uri Shalit, and David Sontag. "Learning representations for counterfactual inference." In International Conference on Machine Learning, pp. 3020-3029. 2016.](http://www.jmlr.org/proceedings/papers/v48/johansson16.pdf)|[Python](https://github.com/oddrose/cfrnet)|
