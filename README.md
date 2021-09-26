@@ -53,7 +53,7 @@
     *Kexin Huang, Marinka Zitnik.*
     
     
-## Learning Causal Effects
+## Graph Few/Zero-shot Learning
 
 ### Node-level Tasks
 
