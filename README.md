@@ -11,3 +11,8 @@
 
 
 ### Edge-level Task
+|Name|Paper|Code
+|---|---|---|
+|GMatching|[[EMNLP 2018] One-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/1808.09040.pdf)|[Python](https://github.com/xwhan/One-shot-Relational-Learning)
+|FSRL|[[AAAI 2019] Few-Shot Knowledge Graph Completion](http://www.meng-jiang.com/pubs/fsrl-aaai20/fsrl-aaai20-paper.pdf)|[Python](https://github.com/chuxuzhang/AAAI2020_FSRL)
+|FAAN|[[NeurIPS 2020] Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://arxiv.org/pdf/2010.09638.pdf)|[Python](https://github.com/JiaweiSheng/FAAN)
