@@ -1,7 +1,7 @@
 ## Graph Few/Zero-shot Learning
+The repository contains links primarily to conference and journal publications in graph few-shot learning. 
 
 ### Node-level Task
-
 |Name|Paper|Code
 |---|---|---|
 |Meta-GNN|[[CIKM 2019] Meta-GNN: On Few-shot Node Classification in Graph Meta-learning](https://arxiv.org/pdf/1905.09718.pdf)|[Python](https://github.com/ChengtaiCao/Meta-GNN)
