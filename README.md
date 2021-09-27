@@ -8,8 +8,8 @@ The repository contains links primarily to conference and journal publications i
 |GPN|[[CIKM 2020] Graph Prototypical Networks for Few-shot Learning on Attributed Networks](https://arxiv.org/pdf/2006.12739.pdf)|[Python](https://github.com/kaize0409/GPN_Graph-Few-shot)
 |G-Meta|[[NeurIPS 2020] Graph Meta Learning via Local Subgraphs](https://arxiv.org/pdf/2006.07889.pdf)|[Python](https://github.com/mims-harvard/G-Meta)
 |RALE|[[AAAI 2021] Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph](https://fangyuan1st.github.io/paper/AAAI21_RALE.pdf)|[TensorFlow](https://github.com/shuaiOKshuai/RALE)
-|MetaTNE|[[NuerIPS 2020] Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://arxiv.org/pdf/2007.02914.pdf)|[TensorFlow](https://github.com/llan-ml/MetaTNE)
-
+|MetaTNE|[[NuerIPS 2020] Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://arxiv.org/pdf/2007.02914.pdf)|[Python](https://github.com/llan-ml/MetaTNE)
+|Meta-GDN|[[WWW 2021] Few-shot Network Anomaly Detection via Cross-network Meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922?casa_token=wAEWlJ-gzFoAAAAA:xy36Lut5RVBQhdraG2lfBauW6K-j-TTGfCqc622wdNZ2J1FhaHk3zJ2ezWhy1D3uPy1WXY7gd2Uy)|[Python](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
 ### Edge-level Task
 |Name|Paper|Code
 |---|---|---|
@@ -25,3 +25,5 @@ The repository contains links primarily to conference and journal publications i
 |GFL|[[AAAI 2020] Graph Few-Shot Learning via Knowledge Transfer](http://www.meng-jiang.com/pubs/gfl-aaai20/gfl-aaai20-paper.pdf)|[N/A]
 |G-META|[[NuerIPS 2020] Graph Meta Learning via Local Subgraphs](https://proceedings.neurips.cc/paper/2020/file/412604be30f701b1b1e3124c252065e6-Paper.pdf)|[Python](https://github.com/mims-harvard/G-MetaL)
 |AS-MAML|[[CIKM 2020] Adaptive-Step Graph Meta-Learner for Few-Shot Graph Classification](https://arxiv.org/pdf/2003.08246.pdf)|[Python](https://github.com/NingMa-AI/AS-MAML)
+|Super-class|[[ICLR 2020] Few-shot learning on graphs via super-classes based on graph spectral measures](https://arxiv.org/pdf/2002.12815.pdf)|[Python](https://github.com/chauhanjatin10/GraphsFewShot)
+|Meta-MGNN|[[WWW2021] Few-Shot Graph Learning for Molecular Property Prediction](https://dl.acm.org/doi/pdf/10.1145/3442381.3450112?casa_token=_7Jgn7QEFNQAAAAA:2R4orCHFYE8qdIhDeligmCMrMOa1jVyo6Gj8NGZlGhcQ0kGdrTDvhWeHy5rU7hO_Y0B-DEUO-l7s)|[Python](https://github.com/zhichunguo/Meta-MGNN)
