@@ -19,6 +19,8 @@ The repository contains links primarily to conference and journal publications i
 |MetaR|[[EMNLP 2019] Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://aclanthology.org/D19-1431.pdf)|[Python](https://github.com/AnselCmy/MetaR)
 |FAAN|[[NeurIPS 2020] Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://arxiv.org/pdf/2010.09638.pdf)|[Python](https://github.com/JiaweiSheng/FAAN)
 |ZSGAN|[[AAAI 2020] Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/2001.02332.pdf)|[Python](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
+|GEN|[[NeurIPS 2020] Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://arxiv.org/pdf/2006.06648.pdf)|[Python](https://github.com/JinheonBaek/GEN)
+
 
 ### Graph-level Task
 |Name|Paper|Code
