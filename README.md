@@ -30,3 +30,4 @@ The repository contains links primarily to conference and journal publications i
 |AS-MAML|[[CIKM 2020] Adaptive-Step Graph Meta-Learner for Few-Shot Graph Classification](https://arxiv.org/pdf/2003.08246.pdf)|[Python](https://github.com/NingMa-AI/AS-MAML)
 |Super-class|[[ICLR 2020] Few-shot learning on graphs via super-classes based on graph spectral measures](https://arxiv.org/pdf/2002.12815.pdf)|[Python](https://github.com/chauhanjatin10/GraphsFewShot)
 |Meta-MGNN|[[WWW2021] Few-Shot Graph Learning for Molecular Property Prediction](https://dl.acm.org/doi/pdf/10.1145/3442381.3450112?casa_token=_7Jgn7QEFNQAAAAA:2R4orCHFYE8qdIhDeligmCMrMOa1jVyo6Gj8NGZlGhcQ0kGdrTDvhWeHy5rU7hO_Y0B-DEUO-l7s)|[Python](https://github.com/zhichunguo/Meta-MGNN)
+|MI-GNN|[[SIGIR 2021] Meta-Inductive Node Classification across Graphs](https://arxiv.org/pdf/2105.06725.pdf)|[N/A]
