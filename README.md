@@ -9,7 +9,7 @@ The repository contains links primarily to conference and journal publications i
 |AMM-GNN|[[CIKM 2020] Graph Few-shot Learning with Attribute Matching](http://www.public.asu.edu/~kding9/pdf/CIKM2020_AMM.pdf)|[N/A]
 |G-Meta|[[NeurIPS 2020] Graph Meta Learning via Local Subgraphs](https://arxiv.org/pdf/2006.07889.pdf)|[PyTorch](https://github.com/mims-harvard/G-Meta)
 |RALE|[[AAAI 2021] Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph](https://fangyuan1st.github.io/paper/AAAI21_RALE.pdf)|[TensorFlow](https://github.com/shuaiOKshuai/RALE)
-|MetaTNE|[[NuerIPS 2020] Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://arxiv.org/pdf/2007.02914.pdf)|[Python](https://github.com/llan-ml/MetaTNE)
+|MetaTNE|[[NuerIPS 2020] Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://arxiv.org/pdf/2007.02914.pdf)|[PyTorch](https://github.com/llan-ml/MetaTNE)
 |Meta-GDN|[[WWW 2021] Few-shot Network Anomaly Detection via Cross-network Meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922?casa_token=wAEWlJ-gzFoAAAAA:xy36Lut5RVBQhdraG2lfBauW6K-j-TTGfCqc622wdNZ2J1FhaHk3zJ2ezWhy1D3uPy1WXY7gd2Uy)|[PyTorch](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
 ### Edge-level Task
 |Name|Paper|Code
