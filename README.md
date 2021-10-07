@@ -1,5 +1,5 @@
-## Graph Few/Zero-shot Learning
-The repository contains links primarily to conference and journal publications in graph few-shot learning. 
+## Graph Meta-learning
+The repository contains links primarily to conference and journal publications about graph meta-learning and graph few/zero-shot learning. 
 
 ### Node-level Task
 |Name|Paper|Code
