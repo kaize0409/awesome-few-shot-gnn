@@ -11,6 +11,8 @@ The repository contains links primarily to conference and journal publications a
 |RALE|[[AAAI 2021] Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph](https://fangyuan1st.github.io/paper/AAAI21_RALE.pdf)|[TensorFlow](https://github.com/shuaiOKshuai/RALE)
 |MetaTNE|[[NuerIPS 2020] Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://arxiv.org/pdf/2007.02914.pdf)|[PyTorch](https://github.com/llan-ml/MetaTNE)
 |Meta-GDN|[[WWW 2021] Few-shot Network Anomaly Detection via Cross-network Meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922?casa_token=wAEWlJ-gzFoAAAAA:xy36Lut5RVBQhdraG2lfBauW6K-j-TTGfCqc622wdNZ2J1FhaHk3zJ2ezWhy1D3uPy1WXY7gd2Uy)|[PyTorch](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
+|HAG-Meta|[[WSDM 2022] Graph few-shot class-incremental learning](https://dl.acm.org/doi/abs/10.1145/3488560.3498455)|[PyTorch]([https://github.com/kaize0409/Meta-GDN_AnomalyDetection](https://github.com/Zhen-Tan-dmml/GFCIL))
+
 ### Edge-level Task
 |Name|Paper|Code
 |---|---|---|
