@@ -12,7 +12,7 @@ The repository contains links primarily to conference and journal publications a
 |RALE|[[AAAI 2021] Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph](https://fangyuan1st.github.io/paper/AAAI21_RALE.pdf)|[TensorFlow](https://github.com/shuaiOKshuai/RALE)
 |Meta-GDN|[[WWW 2021] Few-shot Network Anomaly Detection via Cross-network Meta-learning](https://dl.acm.org/doi/pdf/10.1145/3442381.3449922?casa_token=wAEWlJ-gzFoAAAAA:xy36Lut5RVBQhdraG2lfBauW6K-j-TTGfCqc622wdNZ2J1FhaHk3zJ2ezWhy1D3uPy1WXY7gd2Uy)|[PyTorch](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
 |HAG-Meta|[[WSDM 2022] Graph few-shot class-incremental learning](https://dl.acm.org/doi/abs/10.1145/3488560.3498455)|[PyTorch](https://github.com/Zhen-Tan-dmml/GFCIL)
-|HAG-Meta|[[TKDE 2022] MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779997)|[N/A]
+|MuL-GRN|[[TKDE 2022] MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779997)|[N/A]
 
 ### Edge-level Task
 |Name|Paper|Code
