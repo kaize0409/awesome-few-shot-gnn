@@ -34,6 +34,6 @@ The repository contains links primarily to conference and journal publications a
 |Super-class|[[ICLR 2020] Few-shot learning on graphs via super-classes based on graph spectral measures](https://arxiv.org/pdf/2002.12815.pdf)|[PyTorch](https://github.com/chauhanjatin10/GraphsFewShot)
 |Meta-MGNN|[[WWW2021] Few-Shot Graph Learning for Molecular Property Prediction](https://dl.acm.org/doi/pdf/10.1145/3442381.3450112?casa_token=_7Jgn7QEFNQAAAAA:2R4orCHFYE8qdIhDeligmCMrMOa1jVyo6Gj8NGZlGhcQ0kGdrTDvhWeHy5rU7hO_Y0B-DEUO-l7s)|[PyTorch](https://github.com/zhichunguo/Meta-MGNN)
 |MI-GNN|[[SIGIR 2021] Meta-Inductive Node Classification across Graphs](https://arxiv.org/pdf/2105.06725.pdf)|[N/A]
-
+|GFL-RTG|[[TNNLS 2022] Graph Few-Shot Learning via Restructuring Task Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791434)|[N/A]
 ## Acknowledgement
 This page is contributed and maintained by Kaize Ding (kaize.ding@asu.edu), Zhen Tan (ztan36@asu.edu), and Song Wang (sw3wv@virginia.edu).
