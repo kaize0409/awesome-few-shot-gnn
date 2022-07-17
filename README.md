@@ -1,3 +1,5 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ## Graph Meta-Learning/Graph Few-Shot Learning
 The repository contains links primarily to conference and journal publications about graph meta-learning and graph few/zero-shot learning. 
 
