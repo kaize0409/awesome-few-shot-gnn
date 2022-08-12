@@ -18,6 +18,7 @@ The repository contains links primarily to conference and journal publications a
 |IA-FSNC|[[IJCAI 2022] Information Augmentation for Few-shot Node Classifcation](https://www.ijcai.org/proceedings/2022/0500.pdf)|[N/A]()
 |SGCL|[[ECML 2022] Supervised Graph Contrastive Learning for Few-shot Node Classification](https://arxiv.org/pdf/2203.15936.pdf)|[N/A]
 |LADSL|[[Frontiers 2022] Few-shot node classification via local adaptive discriminant structure learning](https://link.springer.com/article/10.1007/s11704-022-1259-6)|[N/A]
+|LGLNN|[[NN 2022] LGLNN: Label Guided Graph Learning-Neural Network for few-shot learning](https://www.sciencedirect.com/science/article/pii/S0893608022003033?casa_token=mm5SdWStMbcAAAAA:Z6-LQAvuwIWHtd5LtkxZqTgEbnfwMkrKnIf3-i4q5LxM4M-AXO-6h7wsHleDZFA7NfmHyoU7)|[N/A]
 
 ### Edge-level Task
 |Name|Paper|Code
