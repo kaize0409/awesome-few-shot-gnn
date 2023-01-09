@@ -23,6 +23,7 @@ The repository contains links primarily to conference and journal publications a
 |LADSL|[[Frontiers 2022] Few-shot node classification via local adaptive discriminant structure learning](https://link.springer.com/article/10.1007/s11704-022-1259-6)|[N/A]
 |Meta-GIN|[[arXiv 2022] Robust Graph Meta-learning for Weakly-supervised Few-shot Node Classification](https://arxiv.org/pdf/2106.06873.pdf)|[N/A]
 |LGLNN|[[NN 2022] LGLNN: Label Guided Graph Learning-Neural Network for few-shot learning](https://www.sciencedirect.com/science/article/pii/S0893608022003033?casa_token=mm5SdWStMbcAAAAA:Z6-LQAvuwIWHtd5LtkxZqTgEbnfwMkrKnIf3-i4q5LxM4M-AXO-6h7wsHleDZFA7NfmHyoU7)|[N/A]
+|TLP|[[LOG 2022] Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification](https://openreview.net/pdf?id=dK8vOIBENa3)|[N/A]
 
 ### Edge-level Task
 |Name|Paper|Code
