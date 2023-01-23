@@ -34,8 +34,7 @@ The repository contains links primarily to conference and journal publications a
 |FAAN|[[EMNLP 2020] Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://arxiv.org/pdf/2010.09638.pdf)|[PyTorch](https://github.com/JiaweiSheng/FAAN)
 |ZSGAN|[[AAAI 2020] Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/2001.02332.pdf)|[PyTorch](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 |GEN|[[NeurIPS 2020] Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://arxiv.org/pdf/2006.06648.pdf)|[PyTorch](https://github.com/JinheonBaek/GEN)
-|CSR|[[NeurIPS 2022] Few-shot Relational Reasoning via Connection
-Subgraph Pretraining](https://arxiv.org/pdf/2210.06722.pdf)|[PyTorch](https://github.com/snap-stanford/csr)
+|CSR|[[NeurIPS 2022] Few-shot Relational Reasoning via Connection Subgraph Pretraining](https://arxiv.org/pdf/2210.06722.pdf)|[PyTorch](https://github.com/snap-stanford/csr)
 
 ### Graph-level Task
 |Name|Paper|Code
