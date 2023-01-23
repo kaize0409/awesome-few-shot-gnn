@@ -23,7 +23,7 @@ The repository contains links primarily to conference and journal publications a
 |LADSL|[[Frontiers 2022] Few-shot node classification via local adaptive discriminant structure learning](https://link.springer.com/article/10.1007/s11704-022-1259-6)|[N/A]
 |Meta-GIN|[[arXiv 2022] Robust Graph Meta-learning for Weakly-supervised Few-shot Node Classification](https://arxiv.org/pdf/2106.06873.pdf)|[N/A]
 |LGLNN|[[NN 2022] LGLNN: Label Guided Graph Learning-Neural Network for few-shot learning](https://www.sciencedirect.com/science/article/pii/S0893608022003033?casa_token=mm5SdWStMbcAAAAA:Z6-LQAvuwIWHtd5LtkxZqTgEbnfwMkrKnIf3-i4q5LxM4M-AXO-6h7wsHleDZFA7NfmHyoU7)|[N/A]
-|TLP|[[LOG 2022] Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification](https://openreview.net/pdf?id=dK8vOIBENa3)|[N/A]
+|TLP|[[LOG 2022] Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification](https://openreview.net/pdf?id=dK8vOIBENa3)|[PyTorch](https://github.com/Zhen-Tan-dmml/TLP-FSNC)
 
 ### Edge-level Task
 |Name|Paper|Code
@@ -34,6 +34,8 @@ The repository contains links primarily to conference and journal publications a
 |FAAN|[[EMNLP 2020] Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://arxiv.org/pdf/2010.09638.pdf)|[PyTorch](https://github.com/JiaweiSheng/FAAN)
 |ZSGAN|[[AAAI 2020] Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/2001.02332.pdf)|[PyTorch](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 |GEN|[[NeurIPS 2020] Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://arxiv.org/pdf/2006.06648.pdf)|[PyTorch](https://github.com/JinheonBaek/GEN)
+|CSR|[[NeurIPS 2022] Few-shot Relational Reasoning via Connection
+Subgraph Pretraining](https://arxiv.org/pdf/2210.06722.pdf)|[PyTorch](https://github.com/snap-stanford/csr)
 
 ### Graph-level Task
 |Name|Paper|Code
