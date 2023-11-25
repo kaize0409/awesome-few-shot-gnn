@@ -1,7 +1,7 @@
 ## Graph Meta-Learning/Graph Few-Shot Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 The repository contains links primarily to conference and journal publications about graph meta-learning and graph few/zero-shot learning. You are encouraged to contribute to this repo!
 
-Check out our survey: [Few-shot learning on graphs](https://arxiv.org/pdf/2203.09308.pdf)
+Check out our survey: [[IJCAI'22]Few-shot learning on graphs](https://arxiv.org/pdf/2203.09308.pdf)
 
 ### Node-level Task
 |Name|Paper|Code
