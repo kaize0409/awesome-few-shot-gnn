@@ -27,6 +27,7 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |Meta-GIN|[[arXiv 2022] Robust Graph Meta-learning for Weakly-supervised Few-shot Node Classification](https://arxiv.org/pdf/2106.06873.pdf)|[N/A]
 |LGLNN|[[NN 2022] LGLNN: Label Guided Graph Learning-Neural Network for few-shot learning](https://www.sciencedirect.com/science/article/pii/S0893608022003033?casa_token=mm5SdWStMbcAAAAA:Z6-LQAvuwIWHtd5LtkxZqTgEbnfwMkrKnIf3-i4q5LxM4M-AXO-6h7wsHleDZFA7NfmHyoU7)|[N/A]
 |TLP|[[LOG 2022] Transductive Linear Probing: A Novel Framework for Few-Shot Node Classification](https://openreview.net/pdf?id=dK8vOIBENa3)|[PyTorch](https://github.com/Zhen-Tan-dmml/TLP-FSNC)
+|TEG|[[KDD 2023] Task-Equivariant Graph Few-shot Learning](https://arxiv.org/abs/2305.18758)|[PyTorch](https://github.com/sung-won-kim/TEG)
 
 ### Edge-level Task
 |Name|Paper|Code
