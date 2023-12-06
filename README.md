@@ -53,4 +53,4 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |FAITH|[[IJCAI 2022] FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs](https://arxiv.org/pdf/2205.02435.pdf)|[PyTorch](https://github.com/SongW-SW/FAITH)
 |MB-FSGC|[[LoG 2022] Metric Based Few-Shot Graph Classification](https://arxiv.org/abs/2206.03695)|[PyTorch](https://github.com/crisostomi/metric-few-shot-graph)
 ## Acknowledgement
-This page is contributed and maintained by Kaize Ding (kaize.ding@northwestern.edu), Donato Crisostomi (crisostomi@di.uniroma1.it), Zhen Tan (ztan36@asu.edu), and Song Wang (sw3wv@virginia.edu).
+This page is contributed and maintained by Kaize Ding (kaize.ding@northwestern.edu), Sungwon Kim (swkim@kaist.ac.kr), Donato Crisostomi (crisostomi@di.uniroma1.it), Zhen Tan (ztan36@asu.edu), and Song Wang (sw3wv@virginia.edu).
