@@ -30,6 +30,7 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |TEG|[[KDD 2023] Task-Equivariant Graph Few-shot Learning](https://arxiv.org/abs/2305.18758)|[PyTorch](https://github.com/sung-won-kim/TEG)
 |VNT|[[KDD 2023] Virtual Node Tuning for Few-shot Node Classification](https://arxiv.org/abs/2306.06063)|[N/A]
 |COSMIC|[[KDD 2023] Contrastive Meta-Learning for Few-Shot Node Classification](https://arxiv.org/abs/2306.15154)|[Pytorch](https://github.com/SongW-SW/COSMIC)
+|CGFL|[[CIKM 2023] Cross-heterogeneity Graph Few-shot Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3614830)|[N/A]
 
 ### Edge-level Task
 |Name|Paper|Code
@@ -41,6 +42,9 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |ZSGAN|[[AAAI 2020] Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://arxiv.org/pdf/2001.02332.pdf)|[PyTorch](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 |GEN|[[NeurIPS 2020] Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://arxiv.org/pdf/2006.06648.pdf)|[PyTorch](https://github.com/JinheonBaek/GEN)
 |CSR|[[NeurIPS 2022] Few-shot Relational Reasoning via Connection Subgraph Pretraining](https://arxiv.org/pdf/2210.06722.pdf)|[PyTorch](https://github.com/snap-stanford/csr)
+|HiRe|[[ICLR 2023] Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion](https://openreview.net/pdf?id=zlwBI2gQL3K)|[PyTorch](https://github.com/alexhw15/HiRe)
+|NP-FKGC|[[SIGIR 2023] Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion](https://arxiv.org/abs/2304.08183)|[PyTorch](https://github.com/RManLuo/NP-FKGC)
+|FLow-MV|[[KDD 2023] Few-Shot Low-Resource Knowledge Graph Completion with Multi-view Task Representation Generation](https://dl.acm.org/doi/abs/10.1145/3580305.3599350)|[N/A]
 
 ### Graph-level Task
 |Name|Paper|Code
@@ -52,8 +56,12 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |Meta-MGNN|[[WWW2021] Few-Shot Graph Learning for Molecular Property Prediction](https://dl.acm.org/doi/pdf/10.1145/3442381.3450112?casa_token=_7Jgn7QEFNQAAAAA:2R4orCHFYE8qdIhDeligmCMrMOa1jVyo6Gj8NGZlGhcQ0kGdrTDvhWeHy5rU7hO_Y0B-DEUO-l7s)|[PyTorch](https://github.com/zhichunguo/Meta-MGNN)
 |MI-GNN|[[SIGIR 2021] Meta-Inductive Node Classification across Graphs](https://arxiv.org/pdf/2105.06725.pdf)|[PyTorch](https://github.com/WenZhihao666/MI-GNN)
 |CuCo|[[IJCAI 2021] CuCo: Graph Representation with Curriculum Contrastive Learning](https://www.ijcai.org/proceedings/2021/0317.pdf)|[PyTorch](https://github.com/BUPT-GAMMA/CuCo)
+|PAR|[[NeurIPS 2021] Property-Aware Relation Networks for Few-Shot Molecular Property Prediction](https://arxiv.org/pdf/2107.07994.pdf)|[PyTorch](https://github.com/tata1661/PAR-NeurIPS21)
 |GFL-RTG|[[TNNLS 2022] Graph Few-Shot Learning via Restructuring Task Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791434)|[N/A]
 |FAITH|[[IJCAI 2022] FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs](https://arxiv.org/pdf/2205.02435.pdf)|[PyTorch](https://github.com/SongW-SW/FAITH)
 |MB-FSGC|[[LoG 2022] Metric Based Few-Shot Graph Classification](https://arxiv.org/abs/2206.03695)|[PyTorch](https://github.com/crisostomi/metric-few-shot-graph)
+|HSL-RG|[[NN 2023] Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs](https://juweipku.github.io/files/NN_HSL-RG.pdf)|[N/A]  
+|CDTC|[[AAAI 2023] Cross-Domain Few-Shot Graph Classification with a Reinforced Task Coordinator](https://www.researchgate.net/publication/371924042_Cross-Domain_Few-Shot_Graph_Classification_with_a_Reinforced_Task_Coordinator)|[N/A]
+
 ## Acknowledgement
 This page is contributed and maintained by Kaize Ding (kaize.ding@northwestern.edu), Sungwon Kim (swkim@kaist.ac.kr), Donato Crisostomi (crisostomi@di.uniroma1.it), Zhen Tan (ztan36@asu.edu), and Song Wang (sw3wv@virginia.edu).
