@@ -31,6 +31,7 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |VNT|[[KDD 2023] Virtual Node Tuning for Few-shot Node Classification](https://arxiv.org/abs/2306.06063)|[N/A]
 |COSMIC|[[KDD 2023] Contrastive Meta-Learning for Few-Shot Node Classification](https://arxiv.org/abs/2306.15154)|[Pytorch](https://github.com/SongW-SW/COSMIC)
 |CGFL|[[CIKM 2023] Cross-heterogeneity Graph Few-shot Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3614830)|[N/A]
+|HPN|[[ICONIP 2023] Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41)|[N/A]
 
 ### Edge-level Task
 |Name|Paper|Code
