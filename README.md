@@ -32,6 +32,8 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |COSMIC|[[KDD 2023] Contrastive Meta-Learning for Few-Shot Node Classification](https://arxiv.org/abs/2306.15154)|[Pytorch](https://github.com/SongW-SW/COSMIC)
 |CGFL|[[CIKM 2023] Cross-heterogeneity Graph Few-shot Learning](https://dl.acm.org/doi/pdf/10.1145/3583780.3614830)|[N/A]
 |HPN|[[ICONIP 2023] Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41)|[N/A]
+|KD-FSNC|[[AAAI 2024] Self-Training Based Few-Shot Node Classification by Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/29530)|[N/A]
+|Meta-GIN|[[TKDD 2024] Robust Graph Meta-Learning for Weakly Supervised Few-Shot Node Classification](https://dl.acm.org/doi/pdf/10.1145/3630260)|[N/A]
 
 ### Edge-level Task
 |Name|Paper|Code
@@ -63,6 +65,7 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |MB-FSGC|[[LoG 2022] Metric Based Few-Shot Graph Classification](https://arxiv.org/abs/2206.03695)|[PyTorch](https://github.com/crisostomi/metric-few-shot-graph)
 |HSL-RG|[[NN 2023] Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs](https://juweipku.github.io/files/NN_HSL-RG.pdf)|[N/A]  
 |CDTC|[[AAAI 2023] Cross-Domain Few-Shot Graph Classification with a Reinforced Task Coordinator](https://www.researchgate.net/publication/371924042_Cross-Domain_Few-Shot_Graph_Classification_with_a_Reinforced_Task_Coordinator)|[N/A]
+|FAITH|[[TKDD 2024] Learning Hierarchical Task Structures for Few-shot Graph Classification](https://dl.acm.org/doi/pdf/10.1145/3635473)|[N/A]
 
 ## Acknowledgement
 This page is contributed and maintained by Kaize Ding (kaize.ding@northwestern.edu), Sungwon Kim (swkim@kaist.ac.kr), Donato Crisostomi (crisostomi@di.uniroma1.it), Zhen Tan (ztan36@asu.edu), and Song Wang (sw3wv@virginia.edu).
