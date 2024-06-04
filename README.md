@@ -34,6 +34,7 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |HPN|[[ICONIP 2023] Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41)|[N/A]
 |KD-FSNC|[[AAAI 2024] Self-Training Based Few-Shot Node Classification by Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/29530)|[N/A]
 |Meta-GIN|[[TKDD 2024] Robust Graph Meta-Learning for Weakly Supervised Few-Shot Node Classification](https://dl.acm.org/doi/pdf/10.1145/3630260)|[N/A]
+|NaQ|[[ICML 2024] Unsupervised Episode Generation for Graph Meta-learning](https://arxiv.org/abs/2306.15217)|[PyTorch](https://github.com/JhngJng/NaQ-PyTorch)
 
 ### Edge-level Task
 |Name|Paper|Code
