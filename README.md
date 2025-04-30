@@ -36,6 +36,12 @@ Check out our survey: [[IJCAI'22] Few-shot learning on graphs](https://arxiv.org
 |Meta-GIN|[[TKDD 2024] Robust Graph Meta-Learning for Weakly Supervised Few-Shot Node Classification](https://dl.acm.org/doi/pdf/10.1145/3630260)|[N/A]
 |NaQ|[[ICML 2024] Unsupervised Episode Generation for Graph Meta-learning](https://arxiv.org/abs/2306.15217)|[PyTorch](https://github.com/JhngJng/NaQ-PyTorch)
 |COLA|[[WWW 2024] Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks](https://dl.acm.org/doi/abs/10.1145/3589334.3645367)|[PyTorch](https://github.com/Haoliu-cola/COLA)
+|Meta-BP|[[AAAI 2025] Unlocking the Potential of Black-box Pre-trained GNNs for Graph Few-shot Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34407)|[N/A]
+|STAR|[[KDD 2025] Enhancing Unsupervised Graph Few-shot Learning via Set Functions and Optimal Transport](https://arxiv.org/pdf/2501.05635)|[Pytorch](https://github.com/KEAML-JLU/STAR)
+|SMILE|[[WWW 2025] Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks](https://dl.acm.org/doi/abs/10.1145/3696410.3714905)|[Pytorch](https://github.com/KEAML-JLU/SMILE)
+
+
+
 
 ### Edge-level Task
 |Name|Paper|Code
